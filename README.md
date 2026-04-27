@@ -103,6 +103,3 @@ Feel free to fork, improve, and submit PRs!
 
 ---
 
-## 📜 License
-
-MIT License
