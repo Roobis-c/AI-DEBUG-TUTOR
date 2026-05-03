@@ -31,9 +31,9 @@ A smart, conversational AI-powered debugging assistant built using **Streamlit**
 
 ```
 project/
-│── app.py
+│── main.py
 │── .env
-│── requirements.txt
+
 ```
 
 ---
